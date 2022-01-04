@@ -291,6 +291,7 @@ main {
 .main-featured-img {
   position: absolute;
   right: 16px;
+  top: -30px;
 }
 /* MAIN Featured Properties PART END */
 
